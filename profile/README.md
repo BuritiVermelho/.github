@@ -1,4 +1,4 @@
-Olá! Neste repositório estão concentrados os projetos voltados para o Centro de Ensino Fundamental Buriti Vermelho (@cefburitivermelho no Instagram).
+Olá! Aqui estão concentrados os projetos voltados para o Centro de Ensino Fundamental Buriti Vermelho (@cefburitivermelho no Instagram).
 
 Atualmente temos:
 - Site Institucional: Informações sobre a escola, posts sobre o dia a dia da escola, etc.
